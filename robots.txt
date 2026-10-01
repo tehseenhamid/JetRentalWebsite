@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /JetRentalWebsite/
+Disallow: /JetRentalWebsite/api/
+Disallow: /JetRentalWebsite/.data/
+Sitemap: https://tehseenhamid.github.io/JetRentalWebsite/sitemap.xml

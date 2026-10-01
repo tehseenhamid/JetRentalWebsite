@@ -1,0 +1,13 @@
+{
+  "demo": true,
+  "indexable": false,
+  "url": "https://tehseenhamid.github.io/JetRentalWebsite",
+  "basePath": "/JetRentalWebsite",
+  "staticHosting": true,
+  "pageCount": 36,
+  "assets": {
+    "css": "styles.b1183556df.css",
+    "js": "app.b83bd3e7c1.js"
+  },
+  "visualEdition": true
+}
